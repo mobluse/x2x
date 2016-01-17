@@ -19,4 +19,4 @@ The computers must be connected via network with port 22 for SSH open.
 ~/x2x/startx2x.sh raspberrypi2
 
 ## Boot to Linux Console on remote Raspberry Pi
-~/x2x/boot2console raspberrypi2
+~/x2x/boot2console.sh raspberrypi2
