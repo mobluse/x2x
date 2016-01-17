@@ -5,7 +5,7 @@ mouse-pointer to its screen.
 
 ## Install
 These scripts assume the left computer has the mouse and keyboard connected. But this can be changed in 
-the scripts by changing east to west.  
+the scripts on the left computer by changing east to west.  
 On both computers do:  
 cd  
 git clone https://github.com/mobluse/x2x.git  
