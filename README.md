@@ -3,6 +3,8 @@ You can set what the remote Raspberry Pi computer boots to, and start x2x. X2x i
 but with several screens and copy and paste between screens. You select active computer by moving the 
 mouse-pointer to its screen.
 
+There is a blog post in Swedish (på svenska) about x2x: http://enradare.orbin.se/#post66
+
 ## Install
 These scripts assume the left computer has the mouse and keyboard connected. But this can be changed in 
 the scripts on the computer with keyboard by changing east to west, north, or south.  
